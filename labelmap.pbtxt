@@ -1,0 +1,35 @@
+item {
+  id: 1
+  name: '1000'
+}
+
+item {
+  id: 2
+  name: '2000'
+}
+
+item {
+  id: 3
+  name: '5000'
+}
+
+item {
+  id: 4
+  name: '10000'
+}
+
+item {
+  id: 5
+  name: '20000'
+}
+
+item {
+  id: 6
+  name: '50000'
+}
+
+item {
+  id: 7
+  name: '100000'
+}
+
