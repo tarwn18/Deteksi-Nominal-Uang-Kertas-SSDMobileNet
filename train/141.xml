@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>141.jpg</filename>
+	<path>C:\Users\User\projekTA_vscode\tamplate1\image\train\141.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3038</width>
+		<height>3038</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>237</ymin>
+			<xmax>2816</xmax>
+			<ymax>2799</ymax>
+		</bndbox>
+	</object>
+</annotation>
